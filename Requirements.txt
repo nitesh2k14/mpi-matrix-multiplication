@@ -1,0 +1,45 @@
+Part B - Mini-Project Submission Guidelines
+
+This exam consists of three mini-projects, as given in the section below. You are
+required to submit at least one of them, though exploring and completing all four
+projects is recommended for additional practice. The submission deadline for Part B -
+Mini-project is June 15, 2025.
+Grading is mainly based on:
+a) Successful submission (in a Word file) of your individual GitHub link
+containing a repository in which the project files (requirements.txt, .py files,
+etc) are uploaded
+b) Snapshots of the implementation/deployment on your terminal/on cloud
+individual account (pasted in the Word file)
+c) Brief documentation of the steps undertaken
+Submit the required files in a zip file as an attachment via the Part-B Submission
+Link on the LMS, by June 15, to be graded for 10 points.
+Note:
+● It is an offline submission, not live or proctored.
+● You can choose any of the problem statement below.
+● Each project contains the list of deliverables required to be submitted
+● Explore and complete additional mini-projects beyond the required one to
+enhance your learning experience.
+● Ensure that the code is well-documented, organized, and runs without any
+errors before submission.
+Part B: Mini Project
+● Answer any one (1*10 = 10 points)
+● Submit the required files in a zip file as an attachment by 15
+th June
+2025.
+
+1) Mini-Project: MPI-Based Distributed Matrix Multiplication
+
+Project Title: Distributed Matrix Multiplication using MPI
+Objective: To implement and evaluate the performance of matrix multiplication across
+multiple nodes using MPI.
+Tasks:
+Environment Setup: Set up an MPI development environment.
+Matrix Multiplication: Implement a standard matrix multiplication algorithm.
+Distributed Implementation: Modify the algorithm for distributed computation using
+MPI, focusing on data partitioning and inter-process communication.
+Performance Metrics: Develop a system to measure execution time and scalability.
+Scalability Testing: Test the algorithm on different numbers of nodes/processes.
+Benchmarking: Benchmark against a serial implementation to evaluate performance
+gains.
+Deliverables: MPI-based distributed matrix multiplication code, performance metrics,
+benchmarking report, and detailed documentation.
